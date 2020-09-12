@@ -1,0 +1,15 @@
+server:
+  port: 8090
+mysql:
+  host: 127.0.0.1
+  port: 3306
+  username: root
+  password: 950605
+  dbname: test
+  charset: utf8mb4
+  maxOpenConns: 100
+  
+authorization: 123
+    
+    
+    
